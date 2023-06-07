@@ -24,6 +24,17 @@ Here is an example of a `cookiecutter.json` file:
   "_DOC_input3": "description3"
 }
 ```
+And here is an example of a `README.md` file:
+
+```plaintext
+...
+
+## Documentation
+<!-- BEGIN_COOKIECUTTER_DOCS -->
+<!-- END_COOKIECUTTER_DOCS -->
+
+...
+```
 
 ## Installation
 
