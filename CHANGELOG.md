@@ -1,3 +1,10 @@
+## [1.1.6](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/compare/v1.1.5...v1.1.6) (2023-07-26)
+
+
+### Bug Fixes
+
+* upgrade pydantic to 2.X ([98d5d5d](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/commit/98d5d5dc753aea46e556743721587f30660ad6ed)), closes [#1](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/issues/1)
+
 ## [1.1.5](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/compare/v1.1.4...v1.1.5) (2023-05-26)
 
 
