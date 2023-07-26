@@ -41,10 +41,18 @@ And here is an example of a `README.md` file:
 Require Python >= 3.8
 
 ### Remote (recommended)
+
+From private repository.
+
 ```bash
 pip install -U git+ssh://git@git.sk5.io/skale-5/docker-images/cookiecutter-docs.git@vX.Y.Z
 ```
 
+From public repository.
+
+```bash
+pip install -U git+https://github.com/skale-5/cookiecutter-docs.git@vX.Y.Z
+```
 
 # Available flags
 
