@@ -1,3 +1,10 @@
+## [1.1.7](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/compare/v1.1.6...v1.1.7) (2023-07-26)
+
+
+### Bug Fixes
+
+* **pre-commits:** trigger release ([4335c0e](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/commit/4335c0ec9486f381924062a88cf36fb757370744))
+
 ## [1.1.6](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/compare/v1.1.5...v1.1.6) (2023-07-26)
 
 
