@@ -4,7 +4,6 @@
 [![Latest Release](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/-/badges/release.svg)](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/-/releases)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 
-
 `cookiecutter-docs` is inspired from terraform-docs to autogenerate the documentation from cookiecutter.json to a markdown file.
 
 As for now, cookiecutter does not support YAML on his configuration file (only JSON).
