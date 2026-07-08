@@ -1,3 +1,10 @@
+## [1.1.8](https://gitlab.cloud.deloitte.fr/devops-engineering/skale-5/docker-images/cookiecutter-docs/compare/v1.1.7...v1.1.8) (2026-07-08)
+
+
+### Bug Fixes
+
+* **ci:** update include project path after gitlab.cloud.deloitte.fr migration ([42dc917](https://gitlab.cloud.deloitte.fr/devops-engineering/skale-5/docker-images/cookiecutter-docs/commit/42dc917691cc412d052b6f87b781a9816386558e))
+
 ## [1.1.7](https://git.sk5.io/skale-5/docker-images/cookiecutter-docs/compare/v1.1.6...v1.1.7) (2023-07-26)
 
 
